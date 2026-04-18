@@ -857,7 +857,7 @@ def main():
         f.write(html_content)
 
     print(f"\n✅ Laporan tersimpan → {output_path}")
-    print("   Buka file tersebut di browser untuk melihat hasilnya.")
+    print("   Buka file tersebut di browser untuk melihat hasilnya yaa.")
     print("\n══════════════════════════════════════════════════════")
     print("   🎉 PIPELINE SELESAI! Semua output ada di folder output/")
     print("   📊 output/ppks_dashboard.png")
